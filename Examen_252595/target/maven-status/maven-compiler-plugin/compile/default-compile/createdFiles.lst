@@ -1,0 +1,15 @@
+models\AppModel$UpdateType.class
+Controllers\ConstanciaController.class
+models\entities\Alumno.class
+dtos\AlumnoDTO.class
+models\AppModel.class
+models\entities\Inscripcion.class
+models\entities\Materia.class
+patterns\observer\IObserver.class
+models\entities\Constancia.class
+Views\PantallaGenerarConstancia.class
+mappers\AlumnoMapper.class
+patterns\observer\ISubject.class
+Controllers\ConstanciaController$1.class
+models\RepositorioAlumnos.class
+Main\Main.class
